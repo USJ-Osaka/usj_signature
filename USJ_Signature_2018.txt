@@ -1,4 +1,3 @@
-::/*
 ::   USJ signatures script
 ::   A device for car-borne radiation measurement (aka Radiation War-driving).
 
