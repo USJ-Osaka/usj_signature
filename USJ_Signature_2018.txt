@@ -1,5 +1,4 @@
 ::   USJ signatures script
-::   A device for car-borne radiation measurement (aka Radiation War-driving).
 
 ::   Copyright (c) 2018, Youssef Saikali Rob Oudendijk
 ::   Copyright (c) 2016, Youssef Saikali
@@ -38,7 +37,6 @@
 ::			Added office 2010 entries
 ::			Added Github repro at https://github.com/USJ-Osaka/usj_signature
 ::			Added header for batch file
-
 
 
 
